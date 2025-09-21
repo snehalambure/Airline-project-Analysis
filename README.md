@@ -10,7 +10,8 @@ This project analyzes airline data using **SQL, Power BI, Tableau, and Excel** t
 - **Tableau Dashboard** → `Tableau Project.twbx`  
 - **Excel Data** → `AirlineData.xlsx`  
 - **PDF Report** → `Report.pdf`  
-
+- **Certificate** → `Certificate.pdf`
+  
 ---
 
 ## 🛠️ Tools & Technologies  
